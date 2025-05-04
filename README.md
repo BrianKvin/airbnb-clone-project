@@ -143,3 +143,22 @@ Create a section called **“Team Roles”** and briefly describe each role base
 - To protect sensitive user and payment data.
 - To ensure trust and integrity of the platform.
 - To comply with data protection regulations.
+
+### 6. CI/CD Pipeline Overview (Mandatory)
+
+**Objective:** Understand how automated pipelines streamline development.
+
+#### 🔄 CI/CD Pipeline
+
+- **What is CI/CD?**
+  Continuous Integration (CI) and Continuous Delivery (CD) are DevOps practices that automate the building, testing, and deployment of applications.
+
+- **Why CI/CD is important:**
+
+  - Reduces deployment errors
+  - Speeds up release cycles
+  - Ensures consistent test environments
+
+- **Tools:**
+  - **GitHub Actions:** Automate workflows for testing and deployment.
+  - **Docker:** Standardize the deployment environment across different systems.
