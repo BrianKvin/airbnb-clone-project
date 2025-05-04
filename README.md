@@ -125,3 +125,21 @@ Create a section called **“Team Roles”** and briefly describe each role base
 - **Search and Booking:** Users can search properties by location and date, and make bookings.
 - **Review System:** Users can leave reviews and ratings for properties they've booked.
 - **Payment Integration:** Secure payment flow for booking confirmations using third-party payment gateways.
+
+### 5. API Security Overview (Mandatory)
+
+**Objective:** Highlight security best practices for backend APIs.
+
+#### 🔐 API Security
+
+- **Authentication:** Ensure only registered users can access and perform specific actions.
+- **Authorization:** Role-based access control for different user types (admin, host, guest).
+- **Rate Limiting:** Protect APIs from abuse and prevent denial-of-service attacks.
+- **Data Validation & Sanitization:** Prevent injection attacks by validating all inputs.
+- **HTTPS & Encryption:** Secure data transmission and storage of sensitive info like passwords.
+
+**Why Security Matters:**
+
+- To protect sensitive user and payment data.
+- To ensure trust and integrity of the platform.
+- To comply with data protection regulations.
