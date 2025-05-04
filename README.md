@@ -113,3 +113,15 @@ Create a section called **“Team Roles”** and briefly describe each role base
 - A user can own many properties
 - A booking is linked to one property and one user
 - A review belongs to a user and a property
+
+### 4. Feature Breakdown (Mandatory)
+
+**Objective:** Identify and describe the main features of the application.
+
+#### ✨ Feature Breakdown
+
+- **User Management:** Users can register, log in, and manage their profiles.
+- **Property Listings:** Property owners can create, update, and delete listings with descriptions and images.
+- **Search and Booking:** Users can search properties by location and date, and make bookings.
+- **Review System:** Users can leave reviews and ratings for properties they've booked.
+- **Payment Integration:** Secure payment flow for booking confirmations using third-party payment gateways.
