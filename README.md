@@ -99,6 +99,8 @@ Create a section called **“Team Roles”** and briefly describe each role base
 - **GraphQL:** Query language for APIs enabling flexible, client-driven data fetching.
 - **Docker:** Containerization tool to ensure consistent environments across development and deployment.
 - **GitHub Actions:** CI/CD automation to run tests, build code, and deploy changes efficiently.
+- **Celery:** A distributed task queue used for executing background jobs like sending notifications or processing payments.
+- **Redis:** In-memory data store used for caching, session management, and as a message broker for Celery.
 
 ### 🗄️ Database Design
 
