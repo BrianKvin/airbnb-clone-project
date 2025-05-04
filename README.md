@@ -65,7 +65,9 @@ Set up continuous integration and delivery pipelines to streamline development a
 
 ---
 
-This structured approach will enable me to build not only technical capabilities but also a problem-solving mindset and an eye for scalable, production-ready software.
+This structured approach will enable building not only technical capabilities but also a problem-solving mindset and an eye for scalable, production-ready software.
+
+### Detailed Project Overview
 
 ### 1. Team Roles and Responsibilities (Mandatory)
 
@@ -85,3 +87,15 @@ Create a section called **“Team Roles”** and briefly describe each role base
 - **QA Engineer:** Tests functionality and performance to ensure the product meets both functional and non-functional requirements.
 - **Test Automation Engineer:** Builds automated test suites to ensure consistent and scalable testing throughout development.
 - **DevOps Engineer:** Builds and maintains CI/CD pipelines, ensures smooth deployments, and bridges development and operations.
+
+### 2. Technology Stack Overview (Mandatory)
+
+**Objective:** Deepen understanding of the technologies used.
+
+#### 🧰 Technology Stack
+
+- **Django:** Backend web framework for building APIs and server-side logic.
+- **PostgreSQL / MySQL:** Relational database to store structured data such as users, properties, and bookings.
+- **GraphQL:** Query language for APIs enabling flexible, client-driven data fetching.
+- **Docker:** Containerization tool to ensure consistent environments across development and deployment.
+- **GitHub Actions:** CI/CD automation to run tests, build code, and deploy changes efficiently.
