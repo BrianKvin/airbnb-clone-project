@@ -99,3 +99,17 @@ Create a section called **“Team Roles”** and briefly describe each role base
 - **GraphQL:** Query language for APIs enabling flexible, client-driven data fetching.
 - **Docker:** Containerization tool to ensure consistent environments across development and deployment.
 - **GitHub Actions:** CI/CD automation to run tests, build code, and deploy changes efficiently.
+
+### 🗄️ Database Design
+
+- **Users**: id, username, email, password_hash, profile_picture
+- **Properties**: id, title, description, location, price, owner_id
+- **Bookings**: id, user_id, property_id, check_in, check_out, status
+- **Payments**: id, booking_id, amount, status, transaction_date
+- **Reviews**: id, property_id, user_id, rating, comment, created_at
+
+**Entity Relationships**:
+
+- A user can own many properties
+- A booking is linked to one property and one user
+- A review belongs to a user and a property
