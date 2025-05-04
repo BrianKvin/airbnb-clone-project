@@ -66,3 +66,22 @@ Set up continuous integration and delivery pipelines to streamline development a
 ---
 
 This structured approach will enable me to build not only technical capabilities but also a problem-solving mindset and an eye for scalable, production-ready software.
+
+### 1. Team Roles and Responsibilities (Mandatory)
+
+**Objective:** Understand the various roles within the project team.
+
+**Instructions:**  
+Create a section called **“Team Roles”** and briefly describe each role based on the [ITRexGroup blog](https://itrexgroup.com/blog/software-development-team-structure/).
+
+#### 👥 Team Roles
+
+- **Product Owner (PO):** Owns the product vision, manages the product backlog, and ensures the final output aligns with business goals.
+- **Business Analyst (BA):** Translates business needs into technical requirements and aligns stakeholders with the development team.
+- **Project Manager (PM):** Oversees timelines, budgets, and overall project delivery. Facilitates communication between stakeholders and developers.
+- **UI/UX Designer:** Designs user-centric interfaces and experiences, ensuring functionality and usability.
+- **Software Architect:** Defines the technical architecture, selects tools, and sets standards for code quality and scalability.
+- **Software Developer:** Implements functionality, solves coding challenges, and builds the core application features.
+- **QA Engineer:** Tests functionality and performance to ensure the product meets both functional and non-functional requirements.
+- **Test Automation Engineer:** Builds automated test suites to ensure consistent and scalable testing throughout development.
+- **DevOps Engineer:** Builds and maintains CI/CD pipelines, ensures smooth deployments, and bridges development and operations.
