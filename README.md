@@ -4,13 +4,13 @@
 
 The **Airbnb Clone Project** is a comprehensive, real-world application designed to simulate the development of a robust booking platform similar to Airbnb. It involves an in-depth exploration of full-stack development, with a strong focus on backend systems, database design, API development, and application security.
 
-This project empowers learners to understand complex software architectures, development workflows, and collaborative team dynamics while building a scalable web application.
+I will practice with this project to understand complex software architectures, development workflows, and collaborative team dynamics while building a scalable web application.
 
 ---
 
 ## 🎯 Learning Objectives
 
-This project is tailored to enhance your expertise in modern software development practices. By completing these tasks, you will:
+This project is tailored to enhance expertise in modern software development practices. By completing these tasks, I aim to:
 
 - ✅ Master collaborative team workflows using GitHub.
 - ✅ Deepen your understanding of backend architecture and database design principles.
@@ -23,7 +23,7 @@ This project is tailored to enhance your expertise in modern software developmen
 
 ## 🛠️ Requirements
 
-To successfully complete this project, you should:
+These are the requirements to successfully complete this project:
 
 - ✔️ Have a GitHub account to create and manage repositories.
 - ✔️ Be familiar with Markdown syntax for creating `README.md` files.
@@ -65,4 +65,4 @@ Set up continuous integration and delivery pipelines to streamline development a
 
 ---
 
-This structured approach ensures that learners build not only technical capabilities but also a problem-solving mindset and an eye for scalable, production-ready software.
+This structured approach will enable me to build not only technical capabilities but also a problem-solving mindset and an eye for scalable, production-ready software.
