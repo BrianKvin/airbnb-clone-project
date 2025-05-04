@@ -166,5 +166,5 @@ Create a section called **“Team Roles”** and briefly describe each role base
   - **Docker:** Standardize the deployment environment across different systems.
 
 Resources
-[ITRexGroup blog](https://itrexgroup.com/blog/software-development-team-structure/).
-[System design architecture for hotel booking apps (Like Airbnb, OYO)](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7).
+- [ITRexGroup blog](https://itrexgroup.com/blog/software-development-team-structure/).
+- [System design architecture for hotel booking apps (Like Airbnb, OYO)](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7).
