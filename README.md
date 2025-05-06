@@ -128,7 +128,47 @@ Create a section called **“Team Roles”** and briefly describe each role base
 - **Review System:** Users can leave reviews and ratings for properties they've booked.
 - **Payment Integration:** Secure payment flow for booking confirmations using third-party payment gateways.
 
-### 5. API Security Overview (Mandatory)
+### 5. Endpoints Overview
+
+#### REST API Endpoints
+
+#### Users
+
+**Get /users/** - List all users
+**Post /users/** - Create a new user
+**GET /users/{user_id}/** - Retrieve a specific user
+**PUT /users/{user_id}/** - Update a specific user
+**DELETE /users/{user_id}/** - Delete a specific user
+
+#### Properties
+
+**Get /properties/** - List all properties
+**Post /properties/** - Create a new property
+**GET /properties/{property_id}/** - Retrieve a specific property
+**PUT /properties/{property_id}/** - Update a specific property
+**DELETE /properties/{property_id}/** - Delete a specific property
+
+#### Bookings
+
+**Get /bookings/** - List all bookings
+**Post /bookings/** - Create a new booking
+**GET /bookings/{booking_id}/** - Retrieve a specific booking
+**PUT /bookings/{booking_id}/** - Update a specific booking
+**DELETE /bookings/{booking_id}/** - Delete a specific booking
+
+#### Payments
+
+**POST /payments** - Process a payment
+
+#### Reviews
+
+**Get /reviews/** - List all reviews
+**Post /reviews/** - Create a new review
+**GET /reviews/{review_id}/** - Retrieve a specific review
+**PUT /reviews/{review_id}/** - Update a specific review
+**DELETE /reviews/{review_id}/** - Delete a specific review
+
+### 6. API Security Overview (Mandatory)
 
 **Objective:** Highlight security best practices for backend APIs.
 
@@ -146,7 +186,7 @@ Create a section called **“Team Roles”** and briefly describe each role base
 - To ensure trust and integrity of the platform.
 - To comply with data protection regulations.
 
-### 6. CI/CD Pipeline Overview (Mandatory)
+### 7. CI/CD Pipeline Overview (Mandatory)
 
 **Objective:** Understand how automated pipelines streamline development.
 
@@ -166,5 +206,6 @@ Create a section called **“Team Roles”** and briefly describe each role base
   - **Docker:** Standardize the deployment environment across different systems.
 
 Resources
+
 - [ITRexGroup blog](https://itrexgroup.com/blog/software-development-team-structure/).
 - [System design architecture for hotel booking apps (Like Airbnb, OYO)](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7).
