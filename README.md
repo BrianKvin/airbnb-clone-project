@@ -134,39 +134,39 @@ Create a section called **“Team Roles”** and briefly describe each role base
 
 #### Users
 
-**Get /users/** - List all users
-**Post /users/** - Create a new user
-**GET /users/{user_id}/** - Retrieve a specific user
-**PUT /users/{user_id}/** - Update a specific user
-**DELETE /users/{user_id}/** - Delete a specific user
+- **Get /users/** - List all users
+- **Post /users/** - Create a new user
+- **GET /users/{user_id}/** - Retrieve a specific user
+- **PUT /users/{user_id}/** - Update a specific user
+- **DELETE /users/{user_id}/** - Delete a specific user
 
 #### Properties
 
-**Get /properties/** - List all properties
-**Post /properties/** - Create a new property
-**GET /properties/{property_id}/** - Retrieve a specific property
-**PUT /properties/{property_id}/** - Update a specific property
-**DELETE /properties/{property_id}/** - Delete a specific property
+- **Get /properties/** - List all properties
+- **Post /properties/** - Create a new property
+- **GET /properties/{property_id}/** - Retrieve a specific property
+- **PUT /properties/{property_id}/** - Update a specific property
+- **DELETE /properties/{property_id}/** - Delete a specific property
 
 #### Bookings
 
-**Get /bookings/** - List all bookings
-**Post /bookings/** - Create a new booking
-**GET /bookings/{booking_id}/** - Retrieve a specific booking
-**PUT /bookings/{booking_id}/** - Update a specific booking
-**DELETE /bookings/{booking_id}/** - Delete a specific booking
+- **Get /bookings/** - List all bookings
+- **Post /bookings/** - Create a new booking
+- **GET /bookings/{booking_id}/** - Retrieve a specific booking
+- **PUT /bookings/{booking_id}/** - Update a specific booking
+- **DELETE /bookings/{booking_id}/** - Delete a specific booking
 
 #### Payments
 
-**POST /payments** - Process a payment
+- **POST /payments** - Process a payment
 
 #### Reviews
 
-**Get /reviews/** - List all reviews
-**Post /reviews/** - Create a new review
-**GET /reviews/{review_id}/** - Retrieve a specific review
-**PUT /reviews/{review_id}/** - Update a specific review
-**DELETE /reviews/{review_id}/** - Delete a specific review
+- **Get /reviews/** - List all reviews
+- **Post /reviews/** - Create a new review
+- **GET /reviews/{review_id}/** - Retrieve a specific review
+- **PUT /reviews/{review_id}/** - Update a specific review
+- **DELETE /reviews/{review_id}/** - Delete a specific review
 
 ### 6. API Security Overview (Mandatory)
 
